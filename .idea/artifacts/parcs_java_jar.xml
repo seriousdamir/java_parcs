@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="parcs-java:jar">
+    <output-path>$PROJECT_DIR$/out2/artifacts/parcs_java_jar</output-path>
+    <root id="archive" name="parcs-java.jar">
+      <element id="module-output" name="parcs-java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/MC.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/Bluck.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/parcs.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
