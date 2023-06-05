@@ -1,2 +1,2 @@
 # parcs-java
-Implementation of the maximum clique problem for parcs java.
+Вирішення задачі про кліку на PARCS java
